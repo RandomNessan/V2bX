@@ -6,7 +6,7 @@
 A V2board node server based on multi core, modified from XrayR.  
 一个基于多种内核的V2board节点服务端，修改自XrayR，支持V2ay,Trojan,Shadowsocks协议。
 
-**注意： 本项目需要搭配[修改版V2board](https://github.com/wyx2685/v2board)**
+**注意： 本项目需要搭配[修改版V2board](https://github.com/RandomNessan/v2board)**
 
 ## 特点
 
